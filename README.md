@@ -10,4 +10,4 @@ This is a sample project in springboot and jpa(hibernate) using h2 database.
 
  #### For more information about the project please take a look at base project by cliking the link below
  
- > [Springboot JPA with crud and join operations in mysql] (https://github.com/Muthu-Mariyappan/Springboot-JPA-with-crud-and-join-operations)
+ > [Springboot JPA with crud and join operations in mysql](https://github.com/Muthu-Mariyappan/Springboot-JPA-with-crud-and-join-operations)
